@@ -1,0 +1,1 @@
+#### This Python code determines whether a provided matrix is a valid magic square. A magic square is a square matrix where the sum of each row, column, and both diagonals is equal to a constant value, called the magic constant.
