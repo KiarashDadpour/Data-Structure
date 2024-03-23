@@ -147,3 +147,8 @@ def main():
 
 
 main()
+
+
+# example : cos 120 * ( 2 + 3 ) / sqrt 36 ==> -0.4166666666666665
+# example : log2 8 * sin 30 / cos 60 ==> 2.999999999999999
+# example : exp 5 + ( sin 60 * cos 75 ) sqrt 7 ==> 2.869895179106604
