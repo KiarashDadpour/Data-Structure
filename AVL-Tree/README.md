@@ -1,0 +1,1 @@
+### This Python code implements an AVL (Adelson-Velsky and Landis) tree, a self-balancing binary search tree that maintains a logarithmic height for efficient search, insertion, and deletion operations.
