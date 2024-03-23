@@ -1,0 +1,1 @@
+#### This Python code implements a scientific calculator that can perform basic arithmetic operations (+, -, *, /, ^) as well as advanced mathematical functions (sin, cos, tan, cot, sqrt, log2, log10) using expression evaluation with stacks.
